@@ -1,0 +1,1 @@
+# generar_codigo_qr
